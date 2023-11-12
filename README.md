@@ -22,13 +22,13 @@ I am constantly working to improve my skill-set and of those around me in the ev
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 <a href="https://linktr.ee.com/hackerhermanos">
-  <img align="right" src="https://readmestats.999857.xyz/api?username=pr0b3r7&show_icons=true&line_height=33&count_private=true&theme=dark" alt="pr0b3r7's GitHub Stats" />
+  <img align="center" src="https://readmestats.999857.xyz/api?username=pr0b3r7&show_icons=true&line_height=33&count_private=true&theme=dark" alt="pr0b3r7's GitHub Stats" />
 </a>
 
 <a href="https://linktr.ee.com/hackerhermanos">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr0b3r7&theme=dark&" alt="pr0b3r7" /></p>
 </a>
 
-<p align="left"> <a href="https://github.com/pr0b3r7"><img src="https://github-profile-trophy.vercel.app/?username=pr0b3r7&theme=matrix&no-frame=true&no-bg=true&column=-1" alt="pr0b3r7" /></a> </p>
+<p align="center"> <a href="https://github.com/pr0b3r7"><img src="https://github-profile-trophy.vercel.app/?username=pr0b3r7&theme=matrix&no-frame=true&no-bg=true&column=-1" alt="pr0b3r7" /></a> </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=14915771)
