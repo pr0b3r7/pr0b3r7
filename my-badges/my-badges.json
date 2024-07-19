@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/pr0b3r7/pr0b3r7/commit/a9c3d3dbff8cc3c30e9aab36f873f52441581947\"><strong>a</strong>9c3d3dbff8cc3c30e9aab36f873f52441581947</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pr0b3r7/win32/commit/91d0cdfb240ccd2f71ef5501f31010ded2f89f1b\">91d0cdf</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"the\".",
+    "body": "My favorite commit message words are:\n\n1. the (used 16 times)\n2. in (used 13 times)\n3. ipsec (used 13 times)\n4. ipv6 (used 11 times)\n5. of (used 10 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/mrayhanulmasud/analyzing_github_popularity/issues/1\">#1</a>: request for data removal\n- <a href=\"https://github.com/seredat/karbowanec/issues/33\">#33</a>: Karbowanec.exe crashing repeteadly. \n- <a href=\"https://github.com/SamJoan/droopescan/issues/51\">#51</a>: Droopescan can't find cement dependency unless ran with python3\n- <a href=\"https://github.com/rkhal101/Web-Security-Academy-Series/issues/3\">#3</a>: sqli lab2 ValeError: check_hostname requires server_hostname\n- <a href=\"https://github.com/rapid7/metasploit-framework/issues/15940\">#15940</a>: /usr/share/metasploit-framework/vendor/bundle/ruby/2.7.0/gems/zeitwerk-2.5.1/lib/zeitwerk/loader/callbacks.rb:25:in `on_file_autoloaded': expected file /usr/share/metasploit-framework/lib/msf/core/handler/beef_bind.rb to define constant Msf::Handler::BeefBind, but didn't (Zeitwerk::NameError)\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pr0b3r7/AutoAppDomainHijack/commit/c117fb1852607f806c7198357b8b6fac1547d71e\">c117fb1</a>\n- <a href=\"https://github.com/pr0b3r7/AutoAppDomainHijack/commit/62e3e18f241a9a5225556e43345cf992fd25c2f9\">62e3e18</a>\n- <a href=\"https://github.com/pr0b3r7/GOAD/commit/c683b0304db25f4736c3c1b80f9b4752d861b05d\">c683b03</a>\n- <a href=\"https://github.com/evilpistachio/Meraython/commit/c61d41b5d4367aa0c0569696487c603604b3e0fd\">c61d41b</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/evilpistachio/Meraython/commit/4eb55d586f87cf06a1359026633522b87de34c18\">4eb55d5</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
