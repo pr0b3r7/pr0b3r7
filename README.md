@@ -1,5 +1,5 @@
-Hi!, I'm Robert and I work as a Lead of Offensive Security @ a Fortune 40 enterprise.<br />
-I have +10 years of work experience in roles ranging from Network and Cloud Architecture and Information Security.<br />
+Hi!, I'm Robert and I work as a Director of Offensive Security @ [Humana, Inc.](www.humana.com/careers).<br />
+I have +10 years of work experience in roles ranging from Red Team, Penetration Testing, Network+Cloud Architecture and Information Security.<br />
 I am motivated by sharing my knowledge and experiences and learning from yours!<br />
 
 | | |
@@ -7,7 +7,7 @@ I am motivated by sharing my knowledge and experiences and learning from yours!<
 | Team | [Hacker Hermanos](https://linktr.ee/hackerhermanos) |
 | Professional Network | [LinkedIn](https://linkedin.com/in/pimentelrobert1) |
 | Interests | Offensive Security<br />Infrastructure as Code |
-| Certifications | CRTO from Zero Point Security<br />CARTP, CAWASP from Altered Security<br />eCPTX, eCPPT and eJPT from INE F.K.A eLearnSecurity<br />CCNA and CCENT from Cisco<br />CEH |
+| Certifications | ARTO from White Knight Labs<br />CRTO from Zero Point Security<br />CARTP, CAWASP from Altered Security<br />eCPTX, eCPPT and eJPT from INE F.K.A eLearnSecurity<br />CCNA and CCENT from Cisco<br />CEH |
 | Education | Economics Major and Business Administration Minor from Fordham University<br />Cybersecurity and Information Assurance M.S. from Western Governors University |
 
 <p align="center"> <a href="https://github.com/pr0b3r7"><img src="https://github-profile-trophy.vercel.app/?username=pr0b3r7&theme=matrix&no-frame=true&no-bg=true&column=-1" alt="pr0b3r7" /></a> </p>
